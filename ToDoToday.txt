@@ -1,0 +1,18 @@
+Meeting classmates
+1.5
+---------------------
+Finalize a report
+3
+---------------------
+Preapare for a quiz
+0.5
+---------------------
+Go grocery
+1
+---------------------
+Meet a friend
+2
+---------------------
+See my professor
+0.25
+---------------------
